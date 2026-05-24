@@ -12,7 +12,7 @@
 
 ## 在线体验
 
-https://lploong.github.io/3d-rubiks-cube-solver/
+https://lploong.github.io/3D-Rubik-s-Cube-solver/
 
 ## 技术栈
 
