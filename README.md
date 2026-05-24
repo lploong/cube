@@ -14,15 +14,6 @@
 
 https://lploong.github.io/cube/
 
-## 本地开发
-
-```bash
-pnpm install
-pnpm dev
-```
-
-打开 http://localhost:5000
-
 ## 技术栈
 
 Vite 7 + TypeScript + Three.js + Express + Tailwind CSS + rubik-solver
