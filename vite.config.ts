@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/cube/',
+  base: '/3d-rubiks-cube-solver/',
   server: {
     port: 5000,
     host: '0.0.0.0',
